@@ -95,9 +95,3 @@ These tasks required integration of **Computer Vision**, **Robotics**, **Embedde
 ---
 
 
-
----
-
-## ⭐ Support
-
-If you like this project, consider giving it a ⭐ on GitHub!
